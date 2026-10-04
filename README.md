@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi 👋, I'm Jinesh Kumar
 
-<!--
-**jineshkumar134/jineshkumar134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | CSE @ IIIT Agartala
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building modern web
+applications, real-time systems, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE @ IIIT Agartala
+- 💻 Full-Stack Developer
+- ⚛️ React / Next.js enthusiast
+- 🟢 Node.js & Express.js
+- 🗄️ MongoDB / PostgreSQL
+- 🏆 Hackathon participant & finalist
+- 🌱 Currently improving my DSA & System Design skills
+- 🤝 Interested in Open Source & collaborative projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+`HTML` `CSS` `JavaScript` `React` `Next.js` `TypeScript` `Tailwind CSS`
+
+### Backend
+`Node.js` `Express.js` `REST APIs` `WebSockets`
+
+### Database
+`MongoDB` `PostgreSQL` `Prisma`
+
+### Tools
+`Git` `GitHub` `Docker` `Postman` `Vite`
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Business Hub
+A full-stack platform designed to connect businesses, users, and services
+through a modern web application.
+
+### 💬 Real-Time Chat Application
+A real-time communication application built using WebSockets.
+
+### 🧠 Brainly-App
+A second-brain application for organizing and saving important information.
+
+### 📚 Course Selling Platform
+A full-stack platform for managing and selling online courses.
+
+### 🌱 Smart Agro-Waste Management Platform
+An AI-powered platform connecting farmers, buyers, and authorities for
+efficient agro-waste management.
+
+---
+
+## 🏆 Activities & Achievements
+
+- 🌐 Web Development Core Team — GDG IIIT Agartala
+- 🏆 Hackathon Finalist
+- 💡 Hackathon & Startup Projects
+- 🚀 Building real-world full-stack applications
+
+---
+
+## 📊 GitHub Stats
+
+![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineshkumar134&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Jinesh Kumar](https://linkedin.com/in/jinesh-kumar-72046b323)
+- 📧 Email: kumarjinesh740@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects!
